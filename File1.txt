@@ -6,5 +6,4 @@ some another line
 returm
 test12345
 gitHub
-another Line from user1
-User1 changed
+Line from user2
