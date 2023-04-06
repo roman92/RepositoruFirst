@@ -6,5 +6,5 @@ some another line
 returm
 test12345
 gitHub
-etstak
+Line from user2
 User1 changed
