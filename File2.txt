@@ -1,3 +1,3 @@
 For git testing! Test for commsi 3!
 Test fot secon file
-Line from user2
+Line from user2 changed this
